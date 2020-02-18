@@ -1,0 +1,6 @@
+[submodule "mentorify-api"]
+	path = mentorify-api
+	url = git@github.com:Mentorify/mentorify-api.git
+[submodule "mentorify-app"]
+	path = mentorify-client
+	url = git@github.com:Mentorify/mentorify-client.git
