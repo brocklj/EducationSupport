@@ -12,8 +12,13 @@ Education Support Platform build with React Native and React Native Web. THe web
 - MongoDB - https://mongodb.com
 - MongoDB Node.js Driver - https://mongodb.github.io/node-mongodb-native/3.5/
 - Mongoose - Elegant MongoDB object modeling for Node.js: https://mongoosejs.com/
+- Bcrypt - password hashinng https://www.npmjs.com/package/bcrypt
 
 ### Client App
+
+- Apollo client (graphQL)
+- expo.io
+- pwa https://docs.expo.io/versions/latest/guides/web-performance/
 
 ### Upcoming features
 
@@ -38,3 +43,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 [4][jwt authentication: when and how to use it](https://blog.logrocket.com/jwt-authentication-best-practices/)
 
 [5][iaeng international journal of computer science: dynamic salt generation and placement forsecure password storing](http://www.iaeng.org/IJCS/issues_v43/issue_1/IJCS_43_1_04.pdf)
+[6] https://codahale.com/how-to-safely-store-a-password/
